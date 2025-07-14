@@ -20,3 +20,8 @@ module.exports = {
   substract,
   divide,
 };
+
+// // * module wrapper function
+// function(exports, require, module, __fileName, __dirName){
+//   // The module code goes here
+// }
