@@ -6,6 +6,8 @@ This repository tracks my journey in learning backend development. I document my
 
 - **Node Module System**
 - **Node Package Manager (NPM)**
+- **Path Module**
+- **Sync File Module**
 
 ## 📌 Goals
 
