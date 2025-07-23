@@ -1,0 +1,21 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "description": "This repository tracks my journey in learning backend development. I document my progress, projects, and key concepts while staying consistent with my studies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaizAhamed2o1/learn-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FaizAhamed2o1/learn-backend/issues"
+  },
+  "homepage": "https://github.com/FaizAhamed2o1/learn-backend#readme"
+}
